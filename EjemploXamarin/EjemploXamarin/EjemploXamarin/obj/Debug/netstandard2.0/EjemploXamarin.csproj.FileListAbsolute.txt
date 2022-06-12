@@ -1,0 +1,16 @@
+E:\Visual Studio\EjemploXamarin\EjemploXamarin\EjemploXamarin\bin\Debug\netstandard2.0\EjemploXamarin.deps.json
+E:\Visual Studio\EjemploXamarin\EjemploXamarin\EjemploXamarin\bin\Debug\netstandard2.0\EjemploXamarin.dll
+E:\Visual Studio\EjemploXamarin\EjemploXamarin\EjemploXamarin\bin\Debug\netstandard2.0\EjemploXamarin.pdb
+E:\Visual Studio\EjemploXamarin\EjemploXamarin\EjemploXamarin\obj\Debug\netstandard2.0\EjemploXamarin.csproj.AssemblyReference.cache
+E:\Visual Studio\EjemploXamarin\EjemploXamarin\EjemploXamarin\obj\Debug\netstandard2.0\EjemploXamarin.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\EjemploXamarin\EjemploXamarin\EjemploXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Visual Studio\EjemploXamarin\EjemploXamarin\EjemploXamarin\obj\Debug\netstandard2.0\BienvenidosPage.xaml.g.cs
+E:\Visual Studio\EjemploXamarin\EjemploXamarin\EjemploXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Visual Studio\EjemploXamarin\EjemploXamarin\EjemploXamarin\obj\Debug\netstandard2.0\EjemploXamarin.AssemblyInfoInputs.cache
+E:\Visual Studio\EjemploXamarin\EjemploXamarin\EjemploXamarin\obj\Debug\netstandard2.0\EjemploXamarin.AssemblyInfo.cs
+E:\Visual Studio\EjemploXamarin\EjemploXamarin\EjemploXamarin\obj\Debug\netstandard2.0\EjemploXamarin.csproj.CoreCompileInputs.cache
+E:\Visual Studio\EjemploXamarin\EjemploXamarin\EjemploXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Visual Studio\EjemploXamarin\EjemploXamarin\EjemploXamarin\obj\Debug\netstandard2.0\EjemploXamarin.dll
+E:\Visual Studio\EjemploXamarin\EjemploXamarin\EjemploXamarin\obj\Debug\netstandard2.0\refint\EjemploXamarin.dll
+E:\Visual Studio\EjemploXamarin\EjemploXamarin\EjemploXamarin\obj\Debug\netstandard2.0\EjemploXamarin.pdb
+E:\Visual Studio\EjemploXamarin\EjemploXamarin\EjemploXamarin\obj\Debug\netstandard2.0\ref\EjemploXamarin.dll
