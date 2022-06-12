@@ -987,11 +987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Visual Studio\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.iOS\\EjemploXamarin.iOS.csproj",
+      "projectUniqueName": "E:\\Visual Studio\\TFM\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.iOS\\EjemploXamarin.iOS.csproj",
       "projectName": "EjemploXamarin.iOS",
-      "projectPath": "E:\\Visual Studio\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.iOS\\EjemploXamarin.iOS.csproj",
+      "projectPath": "E:\\Visual Studio\\TFM\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.iOS\\EjemploXamarin.iOS.csproj",
       "packagesPath": "C:\\Users\\jemoa\\.nuget\\packages\\",
-      "outputPath": "E:\\Visual Studio\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.iOS\\obj\\",
+      "outputPath": "E:\\Visual Studio\\TFM\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1008,8 +1008,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "E:\\Visual Studio\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.csproj": {
-              "projectPath": "E:\\Visual Studio\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.csproj"
+            "E:\\Visual Studio\\TFM\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.csproj": {
+              "projectPath": "E:\\Visual Studio\\TFM\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.csproj"
             }
           }
         }

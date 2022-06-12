@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Visual Studio\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.Android\\EjemploXamarin.Android.csproj": {}
+    "E:\\Visual Studio\\TFM\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.Android\\EjemploXamarin.Android.csproj": {}
   },
   "projects": {
-    "E:\\Visual Studio\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.Android\\EjemploXamarin.Android.csproj": {
+    "E:\\Visual Studio\\TFM\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.Android\\EjemploXamarin.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual Studio\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.Android\\EjemploXamarin.Android.csproj",
+        "projectUniqueName": "E:\\Visual Studio\\TFM\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.Android\\EjemploXamarin.Android.csproj",
         "projectName": "EjemploXamarin.Android",
-        "projectPath": "E:\\Visual Studio\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.Android\\EjemploXamarin.Android.csproj",
+        "projectPath": "E:\\Visual Studio\\TFM\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.Android\\EjemploXamarin.Android.csproj",
         "packagesPath": "C:\\Users\\jemoa\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual Studio\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.Android\\obj\\",
+        "outputPath": "E:\\Visual Studio\\TFM\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -28,8 +28,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "E:\\Visual Studio\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.csproj": {
-                "projectPath": "E:\\Visual Studio\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.csproj"
+              "E:\\Visual Studio\\TFM\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.csproj": {
+                "projectPath": "E:\\Visual Studio\\TFM\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.csproj"
               }
             }
           }
@@ -50,14 +50,14 @@
         }
       }
     },
-    "E:\\Visual Studio\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.csproj": {
+    "E:\\Visual Studio\\TFM\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual Studio\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.csproj",
+        "projectUniqueName": "E:\\Visual Studio\\TFM\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.csproj",
         "projectName": "EjemploXamarin",
-        "projectPath": "E:\\Visual Studio\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.csproj",
+        "projectPath": "E:\\Visual Studio\\TFM\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin.csproj",
         "packagesPath": "C:\\Users\\jemoa\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual Studio\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin\\obj\\",
+        "outputPath": "E:\\Visual Studio\\TFM\\EjemploXamarin\\EjemploXamarin\\EjemploXamarin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jemoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
